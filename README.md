@@ -24,4 +24,6 @@ If `rJava` and `RWeka` are correctly installed, you can install the package from
 pacman::p_load(DecorateR)
 ```
 
+# References
 
+Melville, P., & Mooney, R. J. (2005). Creating diversity in ensembles using artificial data. *Information Fusion*, 6(1), 99-111. <doi: 10.1016/j.inffus.2004.04.001>
