@@ -7,7 +7,7 @@ Imports:
     RWekajars,
     rJava,
     stats
-Author: Matthias Bogaert, Michel Ballings and Dirk Van den Poel
+Author: Matthias Bogaert
 Maintainer: Matthias Bogaert <Matthias.Bogaert@UGent.Be>
 Description: DECORATE (Diverse Ensemble Creation by Oppositional Relabeling
     of Artificial Training Examples) builds an ensemble of J48 trees by recursively
