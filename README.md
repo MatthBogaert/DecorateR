@@ -6,7 +6,7 @@
 
 # DecorateR
 
-`DecorateR`  allows you to build a Binary classification with DECORATE (Diverse Ensemble Creation by Oppositional Relabeling of Artificial Training Examples) (Melville and Mooney, 2005) The `DECORATE` function builds an ensemble of J48 trees by recursively adding artificial samples of the training data.
+`DecorateR`  allows you to build a Binary classification with DECORATE (Diverse Ensemble Creation by Oppositional Relabeling of Artificial Training Examples) (Melville and Mooney, 2005) The `DECORATE` function builds an ensemble of J48 trees by recursively adding artificial samples of the training data. Note that since `DecorateR` depends on Java there is only support for 64-bit machines.
 
 # Installation
 
@@ -18,10 +18,16 @@ if (!require("pacman")) install.packages("pacman")
 pacman::p_load(rJava, RWeka)
 ```
 
-If `rJava` and `RWeka` are correctly installed, you can install the package from CRAN:
+If `rJava` and `RWeka` are correctly installed, you can install the package from CRAN.  
 
 ```
 pacman::p_load(DecorateR)
+```
+
+To install the development version: 
+
+```
+pacman::p_load_current_gh("MatthBogaert/DecorateR")
 ```
 
 # References
