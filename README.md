@@ -6,7 +6,7 @@
 
 # DecorateR
 
-`DecorateR`  allows you to build a Binary classification with DECORATE (Diverse Ensemble Creation by Oppositional Relabeling of Artificial Training Examples) (Melville and Mooney, 2005) The `DECORATE` function builds an ensemble of J48 trees by recursively adding artificial samples of the training data. Note that since `DecorateR` depends on Java there is only support for 64-bit machines.
+`DecorateR`  allows you to build a Binary classification with DECORATE (Diverse Ensemble Creation by Oppositional Relabeling of Artificial Training Examples) (Melville and Mooney, 2005) The `DECORATE` function builds an ensemble of J48 trees by recursively adding artificial samples of the training data.
 
 # Installation
 
