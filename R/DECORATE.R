@@ -2,7 +2,7 @@
 #'
 #' \code{DECORATE} (Diverse Ensemble Creation by Oppositional Relabeling of
 #' Artificial Training Examples) builds an ensemble of J48 trees by recursively
-#' adding artificial samples of the training data. Currently there is only support for 64bit machines.
+#' adding artificial samples of the training data.
 #'
 #' @param x a data frame of predictor (numeric, integer or factors). Character
 #'   variables should be transformed to factors.
