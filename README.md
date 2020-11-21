@@ -1,3 +1,4 @@
+[![CRAN checks](https://cranchecks.info/badges/summary/DecorateR)](https://cran.r-project.org/web/checks/check_results_DecorateR.html)
 [![](https://www.r-pkg.org/badges/version/DecorateR?color=orange)](https://cran.r-project.org/package=DecorateR)
 [![](https://img.shields.io/badge/devel%20version-0.1.2-orange.svg)](https://github.com/DecorateR)
 [![](http://cranlogs.r-pkg.org/badges/grand-total/DecorateR?color=blue)](https://cran.r-project.org/package=DecorateR)
